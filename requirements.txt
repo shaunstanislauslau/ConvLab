@@ -100,7 +100,7 @@ pytorch-pretrained-bert==0.6.1
 pytz==2017.3
 PyYAML==3.13
 ray==0.6.5
-redis==3.2.1
+redis==4.4.4
 regex==2019.3.12
 requests==2.21.0
 responses==0.10.6
